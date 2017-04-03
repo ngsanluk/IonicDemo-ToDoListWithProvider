@@ -12,32 +12,32 @@ export class ToDoData {
     console.log('Hello ToDoData Provider');
     this.toDoItems = [
       {
-        "toDo": "Learn HTML ...",
-        "description": "Learn HTML coding",
-        "dueDate": "2017-07-17",
-        "priority": 1,
-        "notes:": ""
+        toDo: "Learn HTML",
+        description: "Learn HTML coding",
+        dueDate: "2017-07-17",
+        priority: 1,
+        notes: "Must finish bye 17 July"
       }
       , {
-        "toDo": "Learn CSS",
-        "description": "Learn CSS coding",
-        "dueDate": "2017-07-18",
-        "priority": 1,
-        "notes:": ""
+        toDo: "Learn CSS",
+        description: "Learn CSS coding",
+        dueDate: "2017-07-18",
+        priority: 1,
+        notes: ""
       }
       , {
-        "toDo": "Learn JavaScript",
-        "description": "Learn JavaScript coding",
-        "dueDate": "2017-07-19",
-        "priority": 1,
-        "notes:": ""
+        toDo: "Learn JavaScript",
+        description: "Learn JavaScript coding",
+        dueDate: "2017-07-19",
+        priority: 1,
+        notes: ""
       }
       , {
-        "toDo": "Learn npm",
-        "description": "Learn npm CLI",
-        "dueDate": "2017-07-20",
-        "priority": 2,
-        "notes:": ""
+        toDo: "Learn npm",
+        description: "Learn npm CLI",
+        dueDate: "2017-07-20",
+        priority: 2,
+        notes: ""
       }
       , {
         "toDo": "Learn TypeScript",
